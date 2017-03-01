@@ -25,3 +25,8 @@ NewFileName = ''		#新建文件绝对路径.
 FuHao = '#'				# 显示进度的符号
 CurNum = 1				# 当前遍历的文件数.
 TotalFileNum = 0		# 文件总数
+
+SvnPath = ''			# SVN目录
+GitPath = ''			# Git目录
+GitBranchName = ''		# Git分支名称
+CompareName = ''		# BeyondCompare Session Name

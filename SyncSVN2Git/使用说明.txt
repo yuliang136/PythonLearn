@@ -1,5 +1,11 @@
 脚本功能：使用SVN的资源同步到Git工程. 需要过滤.git目录的和.svn目录
 
+输入参数：
+SVN目录
+Git目录
+Git分支
+
+
 
 修改UpdateResource.bat里配置路径为本地路径：
 
